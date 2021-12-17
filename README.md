@@ -2,5 +2,6 @@
 
 Object Removal -- FGVC method
 
-12/17 finished the second part--if given the frames of mask and source, we can produce removal result.</br>
+12/17 
+finished the second part--if given the frames of mask and source, we can produce removal result.</br>
 eg: tennis.mp4, frames:69, executed time:992.6s
