@@ -11,17 +11,17 @@
 please check full video comparisons in the result folder
 We tested the method in different situations:
 
-虚拟游戏 守望先锋 实机演示
-![](result/00030.png) 
-![](result/30.png)
+虚拟游戏 守望先锋 实机演示<br>
+![](result/00030.png) <br>
+![](result/30.png)<br>
 
-体育 网球
-![](result/00043.png) 
-![](result/43.png)
+体育 网球<br>
+![](result/00043.png) <br>
+![](result/43.png)<br>
 
-生活 公园的侄子
-![](result/48.png) 
-![](result/00048.png)
+生活 公园的侄子<br>
+![](result/48.png) <br>
+![](result/00048.png)<br>
 
 
 
