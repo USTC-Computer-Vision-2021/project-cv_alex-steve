@@ -8,7 +8,7 @@
 
 ## Result exhibition
 
-please check full video comparisons in the result folder<br>
+Please check full video comparisons in the result folder.<br>
 We tested the method in different situations:
 
 游戏 守望先锋 实机演示<br>
