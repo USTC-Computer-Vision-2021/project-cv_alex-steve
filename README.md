@@ -4,7 +4,7 @@
 
 # An object removal project based on STM mask & FGVC method
 
-------
+
 
 ### Result exhibition
 
