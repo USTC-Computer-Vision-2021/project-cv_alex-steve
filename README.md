@@ -6,15 +6,15 @@
 
 
 
-### Result exhibition
+## Result exhibition
 
 please check full video comparisons in the result folder
 
 
 
-------
 
-### Contribution (equal)
+
+## Contribution (equal)
 
 - 贺伟男 PB18071481
 
@@ -24,15 +24,14 @@ please check full video comparisons in the result folder
 
     research&coding 
 
-------
 
-### Problem description
+
+## Problem description
 
 Video inpainting is the problem of filling in missing regions in a video sequence with both spatial and temporal consistency. Video inpainting is beneficial for video editing, such as removing watermarks and unwanted objects. With the explosion of multimedia content in daily life, there are growing needs for inpainting sequences from multiple domains and real-world high-resolution videos. It is also expected to alleviate the human workload of labor-intensive mask labeling for semi-automatic object removal.
 
-------
 
-### Theory analysis
+## Theory analysis
 
 Our project is consisted of *Video Object Segmentation* and *Video Completion*. In the first part, we wish to find all the pixels representing the object in motion. In another part, modifying the color of these pixels to realize the removal effect is expected. 
 
@@ -42,9 +41,9 @@ Next, to fill the mask region with spatial and temporal consistency, the Flow-ed
 
 Combining the methods above, we successfully realize the object removal effect. As long as the client input the video and point out the object(including humans) which he wishes to remove in the first frame, our method can output the video with accurate erasure effect. It processes quickly and need few human labels, which successfully satisfies our goals. On the other hand, there is still some room for improvement when we want to clear out the shadow of the object. Currently, there is still some residual of shadows on certain samples. In summary, our method can solve the video completion problem with excellent feedback, while it still can be modified in the future.
 
-------
 
-### Code structure
+
+## Code structure
 
 ```
 |--code
@@ -60,9 +59,9 @@ Combining the methods above, we successfully realize the object removal effect. 
 
 
 
-------
 
-### Quick start
+
+## Quick start
 
 environment: 
 
