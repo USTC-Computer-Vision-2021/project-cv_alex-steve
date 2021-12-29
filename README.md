@@ -73,6 +73,13 @@ environment:
 - Python 3.6+ 
 - pytorch, numpy, opencv, , imageio, imageio-ffmpeg, scikit-image, imutils, pillow, torchvision=0.7.0, cudatoolkit=10.1
 
+At the beginnig, we divide the video into frames:
+
+```
+cd tool
+python frame_cut.py
+```
+
 To run STM:
 
 download the weight and place it in the same folder with STM:
