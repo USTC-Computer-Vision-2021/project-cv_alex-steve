@@ -46,7 +46,11 @@ Video inpainting is the problem of filling in missing regions in a video sequenc
 
 Our project is consisted of *Video Object Segmentation* and *Video Completion*. In the first part, we wish to find all the pixels representing the object in motion. In another part, modifying the color of these pixels to realize the removal effect is expected. 
 
+![](STM.png)
+
 Firstly, for object segmentation, in order to get the video mask, we apply an semi-supervised algorithm called space-time memory network(STM)which reached high score in the  DAVIS Challenge. It enables us just need to label the first frame for guidance or supervision, and then quickly get all the segmentation of the left frames. In a nutshell, it prepares the mask for the second part with fast speed.
+
+![](FGVC.png)
 
 Next, to fill the mask region with spatial and temporal consistency, the Flow-edge Guided Video Completion(FGVC) is implemented. It uses the optical flow which represents the projection from 3D to 2D as instruction to complete the missing edge and then, fill the region with the right color using information between frames. Also, it suggested an non-local algorithm to promote accuracy. When it was proposed, it reached the state of art on DAVIS data set.
 
