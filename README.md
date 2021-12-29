@@ -56,10 +56,10 @@ Combining the methods above, we successfully realize the object removal effect. 
 |     |--video_completion.py
 |
 |--input
-|	|--source.mp4
-|	|--first_frame_mask.png
+|     |--source.mp4
+|     |--first_frame_mask.png
 |__output
-	|--result.mp4
+      |--result.mp4
 ```
 
 
