@@ -12,7 +12,7 @@ Please check full video comparisons in the result folder.<br>
 We tested the method in different situations:
 
 游戏 守望先锋 实机演示<br>
-![](result/00030.png) <br>
+![](result/00030.jpg) <br>
 ![](result/30.png)<br>
 
 体育 网球<br>
