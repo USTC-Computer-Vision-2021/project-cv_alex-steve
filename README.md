@@ -2,7 +2,7 @@
 
 
 
-## An object removal project based on STM mask & FGVC method
+# An object removal project based on STM mask & FGVC method
 
 ------
 
