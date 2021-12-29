@@ -9,11 +9,17 @@
 ## Result exhibition
 
 please check full video comparisons in the result folder
+We tested the method in different situations:
 
+虚拟游戏 守望先锋 实机演示
 ![](result/00030.png) 
 ![](result/30.png)
+
+体育 网球
 ![](result/00043.png) 
 ![](result/43.png)
+
+生活 公园的侄子
 ![](result/48.png) 
 ![](result/00048.png)
 
