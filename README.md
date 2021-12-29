@@ -10,7 +10,7 @@
 
 please check full video comparisons in the result folder
 
-
+![game](result/30.png)
 
 
 
